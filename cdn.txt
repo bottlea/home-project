@@ -1,0 +1,9 @@
+channel
+https://cdn.jsdelivr.net/gh/bottlea/home-project@master/tv/live.txt
+https://gcore.jsdelivr.net/gh/bottlea/home-project@master/tv/live.txt
+https://fastly.jsdelivr.net/gh/bottlea/home-project@master/tv/live.txt
+
+epg
+https://epg.112114.xyz/
+https://epg.112114.eu.org/
+https://diyp.112114.xyz/
