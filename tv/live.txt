@@ -97,11 +97,33 @@ CCTV4K,https://live.goodiptv.club/api/cqyx.php?id=CCTV4K
 
 
 广东,#genre#
+广东卫视,http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw2917484419_-1632335828/ott.mobaibox.com/PLTV/3/224/3221227476/index.m3u8?icpid=3&RTS=1668597711&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
+广东卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001337/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+广东卫视,http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001032/1.m3u8
 广东卫视,https://live.goodiptv.club/api/cqyx.php?id=guangdongHD
+广东卫视,https://live.goodiptv.club/api/bestv.php?id=gdwshd8m/8000000
+广东卫视,http://cyz32.livehbindex.hbcatv.cn/live/500000206bc6413cb38dc9ca586ffe3f.m3u8?bitrate=2300&pt=5
+广东卫视,P2p://generationnexxxt.com:19806/314b4032afbe4911b55b94235e7b1f25
+
 广东珠江,http://223.109.210.41/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel65/index.m3u8
+
+南方卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8
+大湾区卫视,P2p://generationnexxxt.com:19806/2628d73a5ff14038916ee8fc412164c9
+
+广东4K超高清,http://220.231.188.200:8089/hls/30/index.m3u8
+
+广东影视,P2p://generationnexxxt.com:19806/4af60a88d62b4943b25cf1ea65d40ca8
+
+广东体育,P2p://generationnexxxt.com:19806/4fac79491b7842dabd3c86af4c10d110
+广东体育,P2p://generationnexxxt.com:19806/4fac79491b7842dabd3c86af4c10d110
+广东体育,http://iptv.eatuo.com:9901/tsfile/live/1004_1.m3u8
 
 深圳卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8
 深圳卫视,https://live.goodiptv.club/api/cqyx.php?id=shenzhenHD
+深圳卫视,https://live.goodiptv.club/api/bestv.php?id=szwshd8m/8000000
+深圳卫视,http://cyz32.livehbindex.hbcatv.cn/live/50000020289041678b7585eb32637331.m3u8?bitrate=2300&pt=5
+深圳卫视,http://api2.52tb.xyz/info?id=28&token=20230326xflvzc
+深圳卫视,P2p://generationnexxxt.com:19806/a470da00510647bc8dc078be8a331693
 
 嘉佳卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226227/index.m3u8
 
