@@ -1,5 +1,6 @@
 channel
 https://cdn.jsdelivr.net/gh/bottlea/home-project@master/tv/live.txt
+https://cdn.jsdelivr.net/gh/bottlea/home-project@test/tv/live.txt
 https://gcore.jsdelivr.net/gh/bottlea/home-project@master/tv/live.txt
 https://fastly.jsdelivr.net/gh/bottlea/home-project@master/tv/live.txt
 
